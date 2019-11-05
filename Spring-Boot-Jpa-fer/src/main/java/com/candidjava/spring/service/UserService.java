@@ -11,4 +11,7 @@ public interface UserService {
 	public User update(User user, long l);
 	public void deleteUserById(long id);
 	public User updatePartially(User user, long id);
+	pjsajdushuhdskdjksjdjsxnxsjdhgdsdjsdis
+	amnsjhzuhdskdlskdlsudjksmlxkxpslkdl
+	sddfhbgjhjnkikjmkik,i9okoikh
 }
